@@ -1,0 +1,5 @@
+<root>
+    <item name='java.awt.List java.lang.String[] getItems()'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
